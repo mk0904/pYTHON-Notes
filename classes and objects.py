@@ -1,3 +1,5 @@
+
+
 #map function give map-object as output
 # mao(callable, iterator)
 #also returns an iterator
